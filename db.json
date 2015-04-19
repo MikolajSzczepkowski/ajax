@@ -11,6 +11,42 @@
       "title": "REST",
       "content": "Bla bla bla.",
       "author": "Gosia Ksionek"
+    },
+    {
+      "author": "Maciek",
+      "title": "kotki",
+      "content": "mam do oddania kotki",
+      "id": 26
+    },
+    {
+      "author": "lola",
+      "title": "pies",
+      "content": "mama psaTu wpisz swój post",
+      "id": 27
+    },
+    {
+      "author": "Hela",
+      "title": "Wakacje",
+      "content": "Pojechałabym nad morze.",
+      "id": 28
+    },
+    {
+      "author": "ja",
+      "title": "",
+      "content": "Tu wpisz swój post",
+      "id": 29
+    },
+    {
+      "author": "ja",
+      "title": "wewrrrr",
+      "content": "Tu wpisz swój postwrwrr",
+      "id": 30
+    },
+    {
+      "author": "jadzia",
+      "title": "grosik",
+      "content": "Tu wpisz swój bdliuwe;bw;iblkjblkahblhbpost",
+      "id": 31
     }
   ],
   "favicon.ico": []

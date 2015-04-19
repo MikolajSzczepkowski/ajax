@@ -2,12 +2,21 @@
 <html>
   <head>
     <title>Document Object Model</title>
-	<meta charset="utf-8" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
   </head>
   <body>
-    <h1>Bloguj z ajaxem</h1>
-    <div class='main'>
-    </div>
+    <div class='container'>
+      <h1 class='col-md-12'>Bloguj z ajaxem</h1>
+      <form class='col-md-5 col-md-offset-1'>
+        <label>Autor:<br><input type='text' name='author'></label><br>
+        <label>Tytuł:<br><input type='text' name='title'></label><br>
+        <textarea name='content' rows='10' cols='24'>Tu wpisz swój post</textarea>
+        <input type="submit" value="Wyślij">
+      </form>
+      <div class='col-md-6'>
+      </div>
+    <div>
     <script type="text/javascript" src="jquery-1.11.2.js"></script>
     <script type="text/javascript" src="app.js"></script>
   </body>
